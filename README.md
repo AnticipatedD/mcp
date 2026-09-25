@@ -1,3 +1,18 @@
+# [My Microsoft Learn](https://learn.microsoft.com/en-gb/users/mdhossain)
+
+![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-165_Badges-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Trophies](https://img.shields.io/badge/Trophies-34-FFB900?style=flat-square&logo=trophy&logoColor=white)
+![Level](https://img.shields.io/badge/Level-12-107C41?style=flat-square&logo=microsoft&logoColor=white)
+![Microsoft Partner](https://img.shields.io/badge/Microsoft-Business_Partner-00A4EF?style=flat-square&logo=microsoft&logoColor=white)
+![Elite Profile](https://img.shields.io/badge/MD_Abul_Hossain-%7C_Microsoft_Learn-0f0f23?style=for-the-badge&logo=microsoft&logoColor00ff3&labelColor=16213e)
+
+# Microsoft Learn & Business Partner
+![Microsoft Learn Profile](https://img.shields.io/badge/Microsoft_Learn-165_Badges_%7C_34_Trophies_%7C_Level_12-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Official Partner](https://img.shields.io/badge/Official-Microsoft_Business_Partner-00BCF2?style=flat-square&logo=microsoft&logoColor=white)
+
+![Masterpiece](https://img.shields.io/badge/★_Elite_Cloud_Architect-Microsoft_%2B_IBM_Partner-0f0f23?style=for-the-badge&logo=windows&logoColor=00bcf2&labelColor=0098FF)
+
+
 # 🌟 Microsoft Learn MCP Server
 [![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Learn_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft-learn&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D)
 [![Install in VS Code Insiders](https://img.shields.io/badge/VS_Code_Insiders-Install_Microsoft_Learn_MCP-24bfa5?style=flat-square&logo=visualstudiocode&logoColor=white)](https://insiders.vscode.dev/redirect/mcp/install?name=microsoft-learn&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D&quality=insiders)
