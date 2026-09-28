@@ -1,0 +1,13 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/cli"
+    schedule:
+      interval: "weekly"
+    commit-message:
+      prefix: "deps(cli)"
+    reviewers:
+      - "microsoftdocs/mcp-maintainers"
+    labels:
+      - "dependencies"
+      - "security"
